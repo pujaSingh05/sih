@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ethers": "5.6.4",
+    "next": "12.1.5",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-router-dom": "^6.3.0",
+    "wagmi": "0.2.28"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.5",
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.5",
+    "postcss": "8.4.12",
+    "tailwindcss": "3.0.24"
+  }
+}

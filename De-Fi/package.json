@@ -1,0 +1,33 @@
+{
+  "name": "compound-defi",
+  "version": "1.0.0",
+  "description": "Finanace with Compound.f Protocols",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.4",
+    "hardhat": "^2.9.3",
+    "web3": "^1.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chotapathak/De-Fi.git"
+  },
+  "keywords": [
+    "compound-finance",
+    "defi"
+  ],
+  "author": "Vikash Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chotapathak/De-Fi/issues"
+  },
+  "homepage": "https://github.com/chotapathak/De-Fi#readme"
+}
